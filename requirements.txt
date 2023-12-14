@@ -1,0 +1,9 @@
+torch~=2.1.0
+torchvision
+tqdm
+numpy
+scipy
+scikit-learn
+matplotlib
+gdown
+
